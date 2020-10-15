@@ -1,3 +1,9 @@
+## Portfolio
+
+Velkommen, mitt navn er Michael H. Valen. Jeg er studerer IT og informasjonssystemer på Universitet i Adger. 
+
+*Work in progress
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/OriginalMHV/GithubWebPages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
