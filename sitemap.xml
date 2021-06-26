@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://originalmhv.github.io/MHV/categories/</loc>
-  </url><url>
     <loc>https://originalmhv.github.io/MHV/post/firstpost/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://originalmhv.github.io/MHV/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://originalmhv.github.io/MHV/post/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://originalmhv.github.io/MHV/categories/</loc>
   </url><url>
     <loc>https://originalmhv.github.io/MHV/tags/</loc>
   </url>
