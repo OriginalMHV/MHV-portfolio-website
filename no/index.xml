@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Min hjemmeside</title>
+    <link>https://originalmhv.github.io/no/</link>
+    <description>Recent content on Min hjemmeside</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://originalmhv.github.io/no/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact page</title>
+      <link>https://originalmhv.github.io/no/contact/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://originalmhv.github.io/no/contact/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>First post</title>
+      <link>https://originalmhv.github.io/no/post/firstpost/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://originalmhv.github.io/no/post/firstpost/</guid>
+      
+        <description>Hello there!</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://originalmhv.github.io/no/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://originalmhv.github.io/no/about/</guid>
+      
+        <description>Trying something </description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://originalmhv.github.io/no/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://originalmhv.github.io/no/projects/</guid>
+      
+        <description>Trying something </description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://originalmhv.github.io/no/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://originalmhv.github.io/no/skills/</guid>
+      
+        <description>Trying something </description>
+      
+    </item>
+    
+  </channel>
+</rss>
