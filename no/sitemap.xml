@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://originalmhv.github.io/no/contact.html</loc>
+    <loc>https://originalmhv.github.io/no/contact/</loc>
     <lastmod>2021-06-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://originalmhv.github.io/contact.html"
+                href="https://originalmhv.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://originalmhv.github.io/no/contact.html"
+                href="https://originalmhv.github.io/no/contact/"
                 />
   </url><url>
     <loc>https://originalmhv.github.io/no/</loc>
@@ -28,78 +28,78 @@
                 href="https://originalmhv.github.io/no/"
                 />
   </url><url>
-    <loc>https://originalmhv.github.io/no/post/firstpost.html</loc>
+    <loc>https://originalmhv.github.io/no/post/firstpost/</loc>
     <lastmod>2021-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://originalmhv.github.io/post/firstpost.html"
+                href="https://originalmhv.github.io/post/firstpost/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://originalmhv.github.io/no/post/firstpost.html"
+                href="https://originalmhv.github.io/no/post/firstpost/"
                 />
   </url><url>
-    <loc>https://originalmhv.github.io/no/post.html</loc>
+    <loc>https://originalmhv.github.io/no/post/</loc>
     <lastmod>2021-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://originalmhv.github.io/post.html"
+                href="https://originalmhv.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://originalmhv.github.io/no/post.html"
+                href="https://originalmhv.github.io/no/post/"
                 />
   </url><url>
-    <loc>https://originalmhv.github.io/no/about.html</loc>
+    <loc>https://originalmhv.github.io/no/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://originalmhv.github.io/about.html"
+                href="https://originalmhv.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://originalmhv.github.io/no/about.html"
+                href="https://originalmhv.github.io/no/about/"
                 />
   </url><url>
-    <loc>https://originalmhv.github.io/no/projects.html</loc>
+    <loc>https://originalmhv.github.io/no/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://originalmhv.github.io/projects.html"
+                href="https://originalmhv.github.io/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://originalmhv.github.io/no/projects.html"
+                href="https://originalmhv.github.io/no/projects/"
                 />
   </url><url>
-    <loc>https://originalmhv.github.io/no/skills.html</loc>
+    <loc>https://originalmhv.github.io/no/skills/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://originalmhv.github.io/skills.html"
+                href="https://originalmhv.github.io/skills/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://originalmhv.github.io/no/skills.html"
+                href="https://originalmhv.github.io/no/skills/"
                 />
   </url><url>
-    <loc>https://originalmhv.github.io/no/categories.html</loc>
+    <loc>https://originalmhv.github.io/no/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://originalmhv.github.io/categories.html"
+                href="https://originalmhv.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://originalmhv.github.io/no/categories.html"
+                href="https://originalmhv.github.io/no/categories/"
                 />
   </url><url>
     <loc>https://originalmhv.github.io/no/tags/index/</loc>
@@ -114,16 +114,16 @@
                 href="https://originalmhv.github.io/no/tags/index/"
                 />
   </url><url>
-    <loc>https://originalmhv.github.io/no/tags.html</loc>
+    <loc>https://originalmhv.github.io/no/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://originalmhv.github.io/tags.html"
+                href="https://originalmhv.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://originalmhv.github.io/no/tags.html"
+                href="https://originalmhv.github.io/no/tags/"
                 />
   </url>
 </urlset>
