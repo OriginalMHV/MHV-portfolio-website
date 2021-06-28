@@ -66,30 +66,6 @@
                 href="https://originalmhv.github.io/about.html"
                 />
   </url><url>
-    <loc>https://originalmhv.github.io/projects.html</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://originalmhv.github.io/no/projects.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://originalmhv.github.io/projects.html"
-                />
-  </url><url>
-    <loc>https://originalmhv.github.io/skills.html</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://originalmhv.github.io/no/skills.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://originalmhv.github.io/skills.html"
-                />
-  </url><url>
     <loc>https://originalmhv.github.io/categories.html</loc>
     <xhtml:link
                 rel="alternate"
@@ -112,6 +88,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://originalmhv.github.io/tags/index/"
+                />
+  </url><url>
+    <loc>https://originalmhv.github.io/projects.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://originalmhv.github.io/no/projects.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://originalmhv.github.io/projects.html"
+                />
+  </url><url>
+    <loc>https://originalmhv.github.io/skills.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://originalmhv.github.io/no/skills.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://originalmhv.github.io/skills.html"
                 />
   </url><url>
     <loc>https://originalmhv.github.io/tags.html</loc>
