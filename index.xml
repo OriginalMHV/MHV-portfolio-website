@@ -6,7 +6,18 @@
     <description>Recent content on Hello 👋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://originalmhv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://originalmhv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Hugo experience</title>
+      <link>https://originalmhv.github.io/post/firstpost/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://originalmhv.github.io/post/firstpost/</guid>
+      
+        <description>Experience with Hugo framework While trying to figure out how to create my own personal website for project showcase, document what I&amp;rsquo;ve learned and worked on.</description>
+      
+    </item>
+    
     <item>
       <title>Contact page</title>
       <link>https://originalmhv.github.io/contact/</link>
@@ -15,17 +26,6 @@
       <guid>https://originalmhv.github.io/contact/</guid>
       
         <description></description>
-      
-    </item>
-    
-    <item>
-      <title>The Hugo experience</title>
-      <link>https://originalmhv.github.io/post/firstpost/</link>
-      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://originalmhv.github.io/post/firstpost/</guid>
-      
-        <description>Experience with Hugo framework While trying to figure out how to create my own personal website for project showcase, document what I&amp;rsquo;ve learned and worked on.</description>
       
     </item>
     
